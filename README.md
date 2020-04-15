@@ -56,6 +56,8 @@
 	<link rel="apple-touch-icon" href="https://i1.wp.com/www.sxs.edu.np/wp-content/uploads/2020/03/logo1.png?fit=100%2C121&#038;ssl=1" />
 	<meta name="msapplication-TileImage" content="https://i1.wp.com/www.sxs.edu.np/wp-content/uploads/2020/03/logo1.png?fit=100%2C121&#038;ssl=1" />
 	<title>SXS Portal | St. Xavier's School, Sadakbari, Jhapa</title>
+        <link href="https://unpkg.com/material-components-web@v4.0.0/dist/material-components-web.min.css" rel="stylesheet">
+        <script src="https://unpkg.com/material-components-web@v4.0.0/dist/material-components-web.min.js"></script>
 </head>
 <body>
 	<h2>SXS Portal</h2>
